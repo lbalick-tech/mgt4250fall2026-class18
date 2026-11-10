@@ -6,3 +6,7 @@ These packages need to be installed with pip.
 - streamlit
 - matplotlib
 - plotly
+
+Elon University is *located* in **Elon**. 
+
+[LINK](elon.edu)
